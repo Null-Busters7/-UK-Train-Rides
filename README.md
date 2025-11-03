@@ -130,32 +130,8 @@ The interactive dashboard visualizes:
 
 ---
 
-## 📂 11. Project Structure
 
-```
-📁 UK_Train_Rides_Analysis/
-│
-├── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
-│
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_data_analysis.ipynb
-│   ├── 03_forecasting.ipynb
-│
-├── dashboard/
-│   ├── tableau_dashboard.twbx
-│
-├── reports/
-│   ├── UK_Train_Rides_Analysis_Report.pdf
-│
-└── README.md
-```
-
----
-
-## 🧑‍💻 12. How to Run the Project
+## 🧑‍💻 11. How to Run the Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/UK_Train_Rides_Analysis.git
